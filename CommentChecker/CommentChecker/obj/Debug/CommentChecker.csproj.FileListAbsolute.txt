@@ -1,0 +1,8 @@
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\bin\Debug\CommentChecker.exe.config
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\bin\Debug\CommentChecker.exe
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\bin\Debug\CommentChecker.pdb
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\obj\Debug\CommentChecker.csproj.AssemblyReference.cache
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\obj\Debug\CommentChecker.csproj.CoreCompileInputs.cache
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\obj\Debug\CommentChecker.exe
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\obj\Debug\CommentChecker.pdb
+C:\Users\shijm\source\repos\CommentChecker\CommentChecker\obj\Debug\CommentChecker.exe.config
